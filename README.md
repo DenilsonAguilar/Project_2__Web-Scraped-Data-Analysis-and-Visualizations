@@ -12,10 +12,10 @@ THE FINAL FILE IS CALLED : Final Project 2 File - Final Version
 THE OTHER FILES SCRAP PAGES FROM PREVIOUS YEARS, THEY DO NOT CONTAIN THE SAME INFORMATION AS THE FINAL FILE WHICH IS BASED ON 2024 INFORMATION.
 THE OTHER FILES ARE FROM THE 2020 - 2023 PAGES.
 links for the pages they use:
-2020: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2020)
-2021: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2021)
-2022: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2022)
-2023: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2023)
+1. 2020: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2020)
+2. 2021: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2021)
+3. 2022: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2022)
+4. 2023: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2023)
 
 The questions the file/files will be answering the questions listed below:
 1. What are the most common genres for Netflix films?
