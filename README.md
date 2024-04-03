@@ -21,6 +21,6 @@ These are the links to the sites used in creation of the final project 2 file.
 1. https://en.wikipedia.org/robots.txt
 2. https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(since_2024)
 
-
+UPDATE: THE FILE ITSELF HAD TO BE RECREATE/REMADE DUE TO THE CHANGES THAT RECENTLY OCCURED TO THE SITE ITSELF, i am so tired, i won't make any more changes if they decide to change the wiki page again.
 
 I Am Exhausted but I was able to fix a majority of the issues with the I ran with into the file itself, it took a while to fix the issues i was recieving, im going to rest now, my eyes burn from staying up.
